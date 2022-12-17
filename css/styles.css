@@ -1,0 +1,74 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.site-logo{
+    height: 75px;
+    width: 250px;
+}
+
+.seating-img{
+    height: 400px;
+    width: 600px;
+    padding: 20px;
+    float: left;
+}
+
+.intro-text{
+    margin-top: 40px;
+}
+
+.statement-text{
+    margin-top:40px;
+}
+
+.drinks-banner{
+    text-align: center;
+}
+
+.menu-images{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:nowrap;
+}
+
+.img-coffee{
+    width: 200px;
+    height: 200px;
+}
+
+.img-tea{
+    height: 200px;
+    width: 200px;
+}
+
+.img-smoothie{
+    width: 200px;
+    height: 200px;
+}
+
+.img-pastries{
+    width:200px;
+    height: 150px;
+}
+
+.img-egg-sandwich{
+    width: 200px;
+    height: 150px;
+}
+
+.img-bagel{
+    width: 200px;
+    height: 150px;
+}
+
+.insta-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.twitter-icon{
+    height: 30px;
+    width: 45px;
+    margin-left:10px;
+}
