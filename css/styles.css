@@ -12,6 +12,7 @@ p{
     width: 600px;
     padding: 20px;
     float: left;
+    border-radius: 50px;
 }
 
 .intro-text{
@@ -35,31 +36,59 @@ p{
 .img-coffee{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
 }
 
 .img-tea{
     height: 200px;
     width: 200px;
+    border-radius: 50%;
 }
 
 .img-smoothie{
     width: 200px;
     height: 200px;
+    border-radius: 50%;
 }
 
 .img-pastries{
-    width:200px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
 .img-egg-sandwich{
     width: 200px;
-    height: 150px;
+    height: 200px;
+    border-radius: 50%;
 }
 
 .img-bagel{
     width: 200px;
-    height: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.img-egg-sandwich-2{
+    width: 450px;
+    height: 400px;
+    float: left;
+    padding: 20px;
+    border-radius: 50px
+}
+
+.img-counter{
+    height: 500px;
+    float: left;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.img-front-door{
+    height: 500px;
+    float: left;
+    padding: 20px;
+    border-radius: 50px;
 }
 
 .insta-icon{
@@ -71,4 +100,24 @@ p{
     height: 30px;
     width: 45px;
     margin-left:10px;
+}
+
+.about-header{
+    text-decoration: underline 2px;
+}
+
+.contact-header{
+    text-decoration: underline 2px;
+}
+
+.contact-text{
+    margin-top: 50px;
+}
+
+.about-text{
+    margin-top: 75px;
+}
+
+.about-block{
+    margin-top: 50px;
 }
